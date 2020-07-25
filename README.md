@@ -3,11 +3,6 @@ TASK: Deployment of a WordPress website in EC2 instance using terraform.
 
 
 
-to clone this repo run the following command in command prompt
-
-git clone 
-
-
 Step1: Configure AWS CLI using your credentials.
  
 
